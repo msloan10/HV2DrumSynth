@@ -22,5 +22,5 @@ The model takes a human voice input (e.g., beatboxing) and categorizes it into s
 # Project Highlights
 
 * The validation accuracy for the best model is ~ 91%
-* Outputs for this applications are still under development, stay tuned :)
+* Testing & outputs for this application are still under development, stay tuned :)
 
