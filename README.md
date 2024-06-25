@@ -1,5 +1,5 @@
 # HV2DrumSynth
-This repository houses the source code for a real-time audio classification model that identifies human beatboxing sounds.
+This repository houses the source code for an audio classification model that identifies human beatboxing sounds.
 
 # Project Overview:
 
